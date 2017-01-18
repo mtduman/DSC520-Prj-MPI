@@ -1,0 +1,50 @@
+#!/bin/bash
+#----------------------------------------------------
+# Example SLURM job script to run MPI applications on 
+# TACC's Stampede system.
+#
+# $Id: job.mpi 1580 2013-01-08 04:10:50Z karl $
+#----------------------------------------------------
+
+#SBATCH -J hw5_p2c            # Job name
+#SBATCH -o hw5_p2c_%j.stdou   # Name of stdout output file (%j expands to jobId)
+#SBATCH -e hostname_%j.err    # Name of stderr output file
+#SBATCH -p development        # Queue name (development, normal, large > 256 nodes)
+#SBATCH -N 16                 # Total number of nodes requested (16 cores/node)
+#SBATCH -n 256                # Total number of mpi tasks requested
+#SBATCH -t 00:02:00           # Run time (hh:mm:ss) - 1.5 hours
+#SBATCH -A TG-ASC160058       # Class allocation name to charge
+
+# run your program 16 times in parallel (each one runs on a separate core)
+
+EXE=/home1/04461/tg837609/umassd-hpc-mehmetduman/HW5/hw5        #/absolute/path/to/the/forward/euler/program
+
+#SBATCH -n 2 -N 1
+ibrun -np 2 $EXE 10
+
+#SBATCH -n 4 -N 1
+ibrun -np 4 $EXE 10
+
+#SBATCH -n 16 -N 1
+ibrun -np 16 $EXE 10
+
+#SBATCH -n 32 -N 2
+ibrun -np 32 $EXE 10
+
+#SBATCH -n 64 -N 4
+ibrun -np 64 $EXE 10
+
+#SBATCH -n 128 -N 8
+ibrun -np 128 $EXE 10
+
+#SBATCH -n 256 -N 16
+ibrun -np 256 $EXE 10
+
+#SBATCH -n 512 -N 32
+ibrun -np 512 $EXE 10
+
+#SBATCH -n 1024 -N 64
+ibrun -np 1024 $EXE 10
+
+
+

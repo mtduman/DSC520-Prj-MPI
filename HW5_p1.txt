@@ -1,0 +1,25 @@
+TACC: Starting up job 7873810
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+f( 512, 404.2319 ) = -1059.640663 
+f( 512, 404.2319 ) = -1059.640663 
+f( 512, 404.2319 ) = -1059.640663 
+f( 512, 404.2319 ) = -1059.640663 
+Proccess  2, sample  1,  with f =  1.101457e+02 
+Proccess  1, sample  1,  with f = -3.312653e+02 
+Proccess  3, sample  1,  with f = -1.635407e+02 
+Proccess  0, sample  1,  with f =  3.860226e+02 
+Proccess  2, sample  2,  with f = -2.389024e+02 
+Proccess  1, sample  2,  with f =  2.873286e+02 
+Proccess  3, sample  2,  with f = -2.066937e+02 
+Proccess  0, sample  2,  with f = -1.773359e+02 
+Process 2 of 4 local min = -2.389024e+02
+Process 3 of 4 local min = -2.066937e+02
+Process 0 of 4 local min = -1.773359e+02
+Process 1 of 4 local min = -3.312653e+02
+
+ A Ring Topology Min = -3.312653e+02 
+
+ MPI Min Reduction Global Min = -3.312653e+02 
+ 
+TACC: Shutdown complete. Exiting.

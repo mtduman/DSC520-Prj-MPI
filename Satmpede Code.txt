@@ -1,0 +1,32 @@
+
+
+mpirun -n 4 helloMPI
+
+stampede connect
+ssh tg837609@stampede.tacc.utexas.edu
+
+
+Log into an interactive node
+idev -N 1 -n 16 -A TG-ASC160058
+
+
+
+compile
+mpicc secret_function.o -Wall -std=c99 -o hw5 hw5.c -lm
+mpicc -openmp secret_function.o -Wall -std=c99 -o hw5 hw5.c -lm
+
+
+
+Run
+ibrun -np 4 hw5 2
+
+
+copy files
+scp tg837609@stampede.tacc.utexas.edu:/home1/04461/tg837609/umassd-hpc-mehmetduman/HW5/* .
+
+run Job
+sbatch hw5_p2c_stampede.job
+
+showq
+showq -u tg837609
+

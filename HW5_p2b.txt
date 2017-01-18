@@ -1,0 +1,176 @@
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -7.740336e+02 
+
+ MPI Min Reduction Global Min = -7.740336e+02 
+
+                   N : 10 
+                 size: 4 
+ Entire portion time : 0.369241 
+ Ring passing time   : 0.000063 
+ MPI Reduction time  : 0.000808 
+ Secret+Rnad functime: 0.009209 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -7.371931e+02 
+
+ MPI Min Reduction Global Min = -7.371931e+02 
+
+                   N : 20 
+                 size: 4 
+ Entire portion time : 0.556452 
+ Ring passing time   : 0.000058 
+ MPI Reduction time  : 0.000817 
+ Secret+Rnad functime: 0.006945 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -8.543755e+02 
+
+ MPI Min Reduction Global Min = -8.543755e+02 
+
+                   N : 50 
+                 size: 4 
+ Entire portion time : 1.130849 
+ Ring passing time   : 0.000059 
+ MPI Reduction time  : 0.000795 
+ Secret+Rnad functime: 0.005650 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -8.685071e+02 
+
+ MPI Min Reduction Global Min = -8.685071e+02 
+
+                   N : 70 
+                 size: 4 
+ Entire portion time : 1.521649 
+ Ring passing time   : 0.000056 
+ MPI Reduction time  : 0.000800 
+ Secret+Rnad functime: 0.005431 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -9.344267e+02 
+
+ MPI Min Reduction Global Min = -9.344267e+02 
+
+                   N : 100 
+                 size: 4 
+ Entire portion time : 2.094697 
+ Ring passing time   : 0.000057 
+ MPI Reduction time  : 0.000803 
+ Secret+Rnad functime: 0.005235 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -8.440330e+02 
+
+ MPI Min Reduction Global Min = -8.440330e+02 
+
+                   N : 200 
+                 size: 4 
+ Entire portion time : 4.011800 
+ Ring passing time   : 0.000059 
+ MPI Reduction time  : 0.000803 
+ Secret+Rnad functime: 0.005014 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -9.384742e+02 
+
+ MPI Min Reduction Global Min = -9.384742e+02 
+
+                   N : 500 
+                 size: 4 
+ Entire portion time : 9.784325 
+ Ring passing time   : 0.000059 
+ MPI Reduction time  : 0.000824 
+ Secret+Rnad functime: 0.004892 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -9.312489e+02 
+
+ MPI Min Reduction Global Min = -9.312489e+02 
+
+                   N : 1000 
+                 size: 4 
+ Entire portion time : 19.417119 
+ Ring passing time   : 0.000059 
+ MPI Reduction time  : 0.000833 
+ Secret+Rnad functime: 0.004854 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -9.312489e+02 
+
+ MPI Min Reduction Global Min = -9.312489e+02 
+
+                   N : 2000 
+                 size: 4 
+ Entire portion time : 38.636567 
+ Ring passing time   : 0.000059 
+ MPI Reduction time  : 0.000835 
+ Secret+Rnad functime: 0.004829 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -9.396411e+02 
+
+ MPI Min Reduction Global Min = -9.396411e+02 
+
+                   N : 5000 
+                 size: 4 
+ Entire portion time : 96.388848 
+ Ring passing time   : 0.000063 
+ MPI Reduction time  : 0.000878 
+ Secret+Rnad functime: 0.004819 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7874141
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+ A Ring Topology Min = -9.523806e+02 
+
+ MPI Min Reduction Global Min = -9.523806e+02 
+
+                   N : 10000 
+                 size: 4 
+ Entire portion time : 192.413766 
+ Ring passing time   : 0.000060 
+ MPI Reduction time  : 0.000848 
+ Secret+Rnad functime: 0.004810 , (ring_time - start_time)/(size*N)  
+ 
+TACC: Shutdown complete. Exiting.

@@ -1,0 +1,84 @@
+ITACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+10, 4, -4.879420e+02, -4.879420e+02, 0.424975, 0.000063, 0.000876, 0.424036, 0.010601
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+50, 4, -7.606640e+02, -7.606640e+02, 1.129642, 0.000066, 0.000869, 1.128707, 0.005644
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+100, 4, -8.362344e+02, -8.362344e+02, 2.089839, 0.000061, 0.000861, 2.088917, 0.005222
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+500, 4, -9.327838e+02, -9.327838e+02, 9.764632, 0.000067, 0.000943, 9.763622, 0.004882
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+1000, 4, -9.312489e+02, -9.312489e+02, 19.372315, 0.000066, 0.000897, 19.371352, 0.004843
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+10000, 4, -9.517893e+02, -9.517893e+02, 192.147944, 0.000065, 0.000920, 192.146959, 0.004804
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+10, 256, -8.903365e+02, -8.903365e+02, 3.345764, 0.016761, 0.164858, 3.164145, 0.001236
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+50, 256, -9.511902e+02, -9.511902e+02, 2.070297, 0.015676, 0.140371, 1.914250, 0.000150
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+100, 256, -9.482621e+02, -9.482621e+02, 2.970638, 0.016143, 0.102390, 2.852105, 0.000111
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+500, 256, -9.554837e+02, -9.554837e+02, 11.313511, 0.016225, 0.142831, 11.154455, 0.000087
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+1000, 256, -1.009283e+03, -1.009283e+03, 20.321064, 0.015633, 0.140725, 20.164706, 0.000079
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7877921
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+
+10000, 256, -1.013741e+03, -1.013741e+03, 205.924445, 0.016518, 0.102377, 205.805550, 0.000080
+ 
+TACC: Shutdown complete. Exiting.
